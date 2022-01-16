@@ -1,0 +1,3 @@
+uplode code to git server
+$ git remote add origin https://github.com/bestmbed/Webapp.git
+$ git push -u origin master
